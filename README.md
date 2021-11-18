@@ -7,6 +7,7 @@ Proof of concept how to create cpp executable that runs WPF
 Look for CppCallNETAssemblyWrapper
 - https://github.com/xmegz/clrhost
 - https://github.com/mjrousos/SampleCoreCLRHost
+- https://github.com/dotnet/samples/tree/main/core/hosting
 
 # VisualStudio 2022 Managed entry point
 Microsoft.VisualStudio.Platform.AppDomainManager.dll
