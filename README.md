@@ -9,4 +9,4 @@ Look for CppCallNETAssemblyWrapper
 Microsoft.VisualStudio.Platform.AppDomainManager.dll
 VsAppDomainManager.OnStartup
 
-It seems visual studio uses technique where they have pure C++ exe and they call C++/CLI assembly with wrapper around the native code
+It seems visual studio uses technique where they have pure C++ exe and they call C++/CLI assembly with wrapper around the managed code
