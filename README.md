@@ -9,6 +9,9 @@ This is example from microsoft how to do it with coreclr
 - https://github.com/dotnet/samples/tree/main/core/hosting
 - https://github.com/dotnet/coreclr/blob/master/src/coreclr/hosts/corerun/corerun.cpp
 
+How to debug
+- https://github.com/dotnet/coreclr/blob/master/Documentation/building/debugging-instructions.md
+
 # VisualStudio 2022 Managed entry point
 Microsoft.VisualStudio.Platform.AppDomainManager.dll
 VsAppDomainManager.OnStartup
